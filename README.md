@@ -12,14 +12,14 @@ Finally, the generated meeting notes are automatically sent to all meeting atten
 
 The workflow includes validation, error handling, and logging at each stage to prevent repeated processing, handle permission issues, and provide visibility into skipped or failed meetings.
 
-## Auto Accept Invitation from outlook calendar & Join Meeting
-<img width="1913" height="949" alt="image" src="https://github.com/user-attachments/assets/8b18f02b-19bd-4de9-a497-b17605eb7333" />
+## (1) Event Invitation Listener
+<img width="1917" height="944" alt="image" src="https://github.com/user-attachments/assets/3ffc7928-43ea-4b57-8e8b-58a6d4dbe04b" />
 
-## Auto Listen Meeting Invite Email & Join Meeting
-<img width="1917" height="939" alt="image" src="https://github.com/user-attachments/assets/5ffe6031-8ad2-4498-ac40-7bfb5ff584a7" />
+## (2) Auto Accept Invitation & Join Meeting
+<img width="1916" height="940" alt="image" src="https://github.com/user-attachments/assets/388c831c-a361-4751-b525-9d3c10be480d" />
 
-## Get Transcript & Send to Attendees
-<img width="1904" height="909" alt="image" src="https://github.com/user-attachments/assets/87b54200-2c00-4c12-b838-b974d83fe830" />
+## (3) Meeting Invite Email Listener for Live Join
+<img width="1919" height="939" alt="image" src="https://github.com/user-attachments/assets/9bac2201-847b-4283-bbe1-18aae2557fb2" />
 
-## Update Recall Bot Status
-<img width="1924" height="918" alt="image" src="https://github.com/user-attachments/assets/0428707c-14ba-4fe8-814f-cab3a6b4bb7b" />
+## (4) Update Bot Status & Send Note to Attendees
+<img width="1917" height="938" alt="image" src="https://github.com/user-attachments/assets/09279b28-30e2-4ccd-9b25-352e287c96e9" />
